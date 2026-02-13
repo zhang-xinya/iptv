@@ -29,3 +29,8 @@ http://69.30.245.50/live/cctv13.m3u8
 http://69.30.245.50/live/cctv14.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV15
 http://69.30.245.50/live/cctv15.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV15" group-title="央视频道",CCTV16
+http://69.30.245.50/live/cctv16.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV15" group-title="央视频道",CCTV17
+http://69.30.245.50/live/cctv17.m3u8
+
