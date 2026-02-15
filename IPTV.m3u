@@ -51,6 +51,8 @@ http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="邵氏喜剧" group-title="电影频道",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="东方卫视4K高清" group-title="地方台与纪录片",东方卫视4K高清
+https://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方台与纪录片",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济" group-title="地方台与纪录片",苏州社会经济
@@ -63,6 +65,7 @@ https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 tvg-name="江苏国际" group-title="地方台与纪录片",江苏国际
 http://58.210.139.130:9901/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+
 
 
 
