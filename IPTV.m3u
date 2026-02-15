@@ -49,10 +49,5 @@ https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯" group-title="地方台与纪录片",苏州生活资讯
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 tvg-name="舌尖上的中国第一季" group-title="地方台与纪录片",舌尖上的中国第一季
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/1200.m3u8
-#EXTINF:-1 tvg-name="舌尖上的中国第二季" group-title="地方台与纪录片",舌尖上的中国第二季
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
-#EXTINF:-1 tvg-name="舌尖上的中国第三季" group-title="地方台与纪录片",舌尖上的中国第三季
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
+
 
