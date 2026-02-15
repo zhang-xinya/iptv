@@ -41,8 +41,6 @@ http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="chchd" tvg-name="CHC影迷电影" group-title="电影频道",CHC影迷电影
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="chcgq" tvg-name="CHC高清电影" group-title="电影频道",CHC高清电影
-http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 #EXTINF:-1 tvg-name="邵氏电影" group-title="电影频道",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="邵氏武侠" group-title="电影频道",邵氏武侠
@@ -63,8 +61,9 @@ https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯" group-title="地方台与纪录片",苏州生活资讯
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 tvg-name="江苏国际" group-title="地方台与纪录片",江苏国际
-http://58.210.139.130:9901/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="江苏卫视" group-title="地方台与纪录片",江苏卫视
+http://222.186.27.222/hlslive-tx-1-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
+
 
 
 
