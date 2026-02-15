@@ -39,3 +39,20 @@ http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="邵氏喜剧" group-title="电影频道",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方台与纪录片",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="苏州社会经济" group-title="地方台与纪录片",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" group-title="地方台与纪录片",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-name="苏州电影娱乐" group-title="地方台与纪录片",苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 tvg-name="苏州生活资讯" group-title="地方台与纪录片",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 tvg-name="舌尖上的中国第一季" group-title="地方台与纪录片",舌尖上的中国第一季
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/1200.m3u8
+#EXTINF:-1 tvg-name="舌尖上的中国第二季" group-title="地方台与纪录片",舌尖上的中国第二季
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
+#EXTINF:-1 tvg-name="舌尖上的中国第三季" group-title="地方台与纪录片",舌尖上的中国第三季
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
+
