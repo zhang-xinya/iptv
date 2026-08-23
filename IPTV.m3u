@@ -1,34 +1,38 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://69.30.245.50/live/cctv1.m3u8
+http://198.204.228.26/live/cctv1hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
-http://69.30.245.50/live/cctv2.m3u8
+http://198.204.228.26/live/cctv2hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV3
-http://69.30.245.50/live/cctv3.m3u8
+http://198.204.228.26/live/cctv3hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV4
-http://69.30.245.50/live/cctv4.m3u8
+http://198.204.228.26/live/cctv4hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
-http://69.30.245.50/live/cctv5.m3u8
+http://198.204.228.26/live/cctv5hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV6
-http://69.30.245.50/live/cctv6.m3u8
+http://198.204.228.26/live/cctv6hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV7
-http://69.30.245.50/live/cctv7.m3u8
+http://198.204.228.26/live/cctv7hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV8
-http://69.30.245.50/live/cctv8.m3u8
+http://198.204.228.26/live/cctv8hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV9
-http://69.30.245.50/live/cctv9.m3u8
+http://198.204.228.26/live/cctv9hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV10
-http://69.30.245.50/live/cctv10.m3u8
+http://198.204.228.26/live/cctv10hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV11
-http://58.210.139.130:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://198.204.228.26/live/cctv11hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV12
-http://58.210.139.130:9901/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://198.204.228.26/live/cctv12hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV13
-http://58.210.139.130:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://198.204.228.26/live/cctv13hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV14
-http://58.210.139.130:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://198.204.228.26/live/cctv14hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV15
-http://58.210.139.130:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://198.204.228.26/live/cctv15hd.m3u8?ysp
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV16
+http://198.204.228.26/live/cctv16hd.m3u8?ysp
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://198.204.228.26/live/cctv17hd.m3u8?ysp
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道",CCTV5+
 http://58.210.139.130:9901/tsfile/live/0140_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视频道",CCTV4K
